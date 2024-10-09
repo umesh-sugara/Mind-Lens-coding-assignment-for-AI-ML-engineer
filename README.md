@@ -14,6 +14,8 @@ Build an app that allows users to upload an image of a workspace and returns an 
   - .env: This configuiration file stores OPENAI_API_KEY. User need to update this api key to run the code.
   - templates/index.html: This directory stores the html file to prepare the frontend of the application.
   - uploads: This directory stores all the images that are uploaded by the user.
+    
+  - Coding_assignment_Umesh_Ratan_Singh_Sugara (1).ipynb :  This is a jupyter Notebook file for those users, who directly want to run the code without setting up the entire application seprately.
 
 ## Setup Instructions
 1. **Clone the Repository**
