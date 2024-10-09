@@ -19,7 +19,7 @@ Build an app that allows users to upload an image of a workspace and returns an 
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:umesh-sugara/Catalys-Task.git
+   git clone git@github.com:umesh-sugara/Mind-Lens-coding-assignment-for-AI-ML-engineer.git
    
 2. **Create and activate a virtual environment:**
 
